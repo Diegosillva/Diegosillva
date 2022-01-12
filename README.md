@@ -1,5 +1,5 @@
 - 👋 ola sou Diego Silva
-- 🌱 atualmente estou aprendendo HTML, CSS.
+- 🌱 atualmente estou aprendendo javaScript
 - 📫 diego.silperes@gmail.com
 - 🎓 estudando Eng. de Software
 
