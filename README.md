@@ -1,4 +1,4 @@
-- 👋 ola sou Diego Silva
+- 👋 ola sou @DiegoSilva
 - 🌱 atualmente estou aprendendo javaScript
 - 📫 diego.silperes@gmail.com
 - 🎓 estudando Eng. de Software
