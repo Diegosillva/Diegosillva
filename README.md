@@ -2,6 +2,7 @@
 - 🌱 atualmente estou aprendendo javaScript
 - 📫 diego.silperes@gmail.com
 - 🎓 estudando Eng. de Software
+- ☣️ SkillS: javaScript, NodeJs, C, HTML, CSS, Logica de Programção.
 
 
  <div>
