@@ -1,5 +1,4 @@
 - 👋 ola sou @DiegoSilva
-- 🌱 atualmente estou aprendendo Python
 - 📫 diego.silperes@gmail.com
 - 🎓 estudando Eng. de Software
 - ☣️ Skills: Logica de Programação, C#, Python, JavaScript.
