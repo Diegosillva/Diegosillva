@@ -1,5 +1,5 @@
 - 👋 ola sou @DiegoSilva
-- 📫 diego.silperes@gmail.com
+- 📫 diegodasilva.tech@gmail.com
 - 🎓 estudando Eng. de Software
 - ☣️ Skills: Logica de Programação, C#, Python, JavaScript.
 
